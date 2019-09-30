@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e48df14-f920-439d-9b4e-d537c5320f0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CSC256PublicChangeDoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSC256PublicChangeDoc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jtclark52-Bug1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jtclark52-Feature0.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jtclark52-Feature1.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DefectTemplate.docx" beforeDir="false" afterPath="$PROJECT_DIR$/DefectTemplate.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jtclark52-0.docx" beforeDir="false" afterPath="$PROJECT_DIR$/jtclark52-Bug0.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_age_calculator_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="132">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -104,6 +105,11 @@
             <path>
               <item name="CSC256PublicChangeDoc" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSC256PublicChangeDoc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSC256PublicChangeDoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSC256PublicChangeDoc" type="462c0819:PsiDirectoryNode" />
+              <item name="changedoc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_age_calculator_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="132">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
