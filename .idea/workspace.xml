@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e48df14-f920-439d-9b4e-d537c5320f0c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jtclark52-Bug1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jtclark52-Feature0.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jtclark52-Feature1.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jtclark52-0.docx" beforeDir="false" afterPath="$PROJECT_DIR$/jtclark52-Bug0.docx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,24 +15,34 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="66" />
-          <entry key="py" value="1" />
+          <entry key="py" value="1369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="66" />
-          <entry key="Python" value="1" />
+          <entry key="Python" value="1369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="py" value="40" />
           <entry key="txt" value="1" />
-          <entry key="yml" value="1" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -44,31 +50,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/changedoc/test/unittest/test_full_retirement_calc.py">
+        <entry file="file://$PROJECT_DIR$/changedoc/rockpaperscissor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="510">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_age_calculator_app.py">
+        <entry file="file://$PROJECT_DIR$/../CSC256PublicChangeMgmt/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_calc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="58" column="51" lean-forward="true" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -86,19 +80,25 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/changedoc/.travis.yml" />
         <option value="$PROJECT_DIR$/changedoc/full_retirement_calc.py" />
+        <option value="E:/WaketechCoursesFinished/CSC 121 Python/Lab06p1.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/changedoc/rockpaperscissor.py" />
+        <option value="$PROJECT_DIR$/../CSC256PublicChangeMgmt/.travis.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1654" />
+    <option name="x" value="1940" />
+    <option name="y" value="277" />
     <option name="width" value="1529" />
-    <option name="height" value="1100" />
+    <option name="height" value="769" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,22 +106,16 @@
               <item name="CSC256PublicChangeDoc" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSC256PublicChangeDoc" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CSC256PublicChangeDoc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSC256PublicChangeDoc" type="462c0819:PsiDirectoryNode" />
-              <item name="changedoc" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DarkPassenger" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -134,11 +128,12 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python Projects\Project 1\CSC256PublicChangeMgmt" />
+      <recent name="C:\pub\git\CSC256PublicChangeDoc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Python Projects\Project 1\CSC256PublicChangeDoc\" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\pub\git\CSC256PublicChangeDoc" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,7 +148,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.full_retirement_age_calculator_app">
+  <component name="RunManager" selected="Python.rockpaperscissor">
+    <configuration name="Lab05P1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSC256PublicChangeDoc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/WaketechCoursesFinished/CSC 121 Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/WaketechCoursesFinished/CSC 121 Python/Lab05P1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab06p1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CSC256PublicChangeDoc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/WaketechCoursesFinished/CSC 121 Python" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:/WaketechCoursesFinished/CSC 121 Python/Lab06p1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="full_retirement_age_calculator_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC256PublicChangeDoc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,47 +212,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="rockpaperscissor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC256PublicChangeDoc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/changedoc/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/changedoc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/changedoc/test&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/changedoc/rockpaperscissor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_full_retirement_calc.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CSC256PublicChangeDoc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/changedoc/test/unittest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/changedoc/test/unittest/test_full_retirement_calc.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest in test" />
-      <item itemvalue="Python tests.pytest in test_full_retirement_calc.py" />
       <item itemvalue="Python.full_retirement_age_calculator_app" />
+      <item itemvalue="Python.rockpaperscissor" />
+      <item itemvalue="Python.Lab06p1" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.Lab05P1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rockpaperscissor" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Lab05P1" />
+        <item itemvalue="Python.Lab06p1" />
         <item itemvalue="Python.full_retirement_age_calculator_app" />
-        <item itemvalue="Python tests.pytest in test_full_retirement_calc.py" />
-        <item itemvalue="Python tests.pytest in test" />
       </list>
     </recent_temporary>
   </component>
@@ -254,14 +306,14 @@
     <option name="totallyTimeSpent" value="351000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1654" y="0" width="1529" height="1100" extended-state="0" />
+    <frame x="1940" y="277" width="1529" height="769" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19181757" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5243644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18294051" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,6 +334,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSC256PublicChangeDoc$pytest_in_test.coverage" NAME="pytest in test Coverage Results" MODIFIED="1564524637800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/changedoc/test" />
@@ -307,27 +362,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/changedoc/test/unittest/test_full_retirement_calc.py">
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab09p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab10p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab04P3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab05P2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab05P3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab05P4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab03P2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab03P3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab03P4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab03P1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="52" lean-forward="true" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_calc.py">
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab04P2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab04P4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab05P1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab06p1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="58" column="51" lean-forward="true" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab06p2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab07p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab08p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab08p4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab10p1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Midterm_practice_temperatures.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/My_Grade.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Retirement.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Jackpot.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/MealCalculation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Car_Rental.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/BloodGlucose.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Midterm_practice_debate_winner.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Lab03P5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/WaketechCoursesFinished/CSC 121 Python/Addcourse.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="62" selection-start-line="100" selection-start-column="62" selection-end-line="100" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lab3/datetemp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lab3/retirement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changedoc/test/unittest/test_full_retirement_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_age_calculator_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changedoc/full_retirement_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/changedoc/rockpaperscissor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CSC256PublicChangeMgmt/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
